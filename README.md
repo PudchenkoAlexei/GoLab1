@@ -7,4 +7,4 @@
 
 ### - Пудченко Олексій: https://github.com/PudchenkoAlexei
 ### - Капацин Олексій: https://github.com/Kkrinch
-### - Дивнич Анастасія: https://github.com/anastasiadyvnich
+### - Дивнич Анастасія: https://github.com/anastasiadyvnich;
