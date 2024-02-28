@@ -5,6 +5,6 @@
 
 ## Виконали:
 
-### - Пудченко Олексій
-### - Капацин Олексій 
-### - Дивнич Анастасія
+### - Пудченко Олексій: https://github.com/PudchenkoAlexei;
+### - Капацин Олексій: https://github.com/Kkrinch;
+### - Дивнич Анастасія: https://github.com/anastasiadyvnich
